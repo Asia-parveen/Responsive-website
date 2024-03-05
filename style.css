@@ -885,6 +885,9 @@ width: 40%;
     .col-5-3{
         width: 100%;
     }
+    #col5{
+        width: 50%;
+        text-align: center;
     
 }
 
